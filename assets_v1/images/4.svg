@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1280 806" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>BG_RLO</title>
+<desc>Created with Sketch.</desc>
+<defs>
+<rect id="a" width="1280" height="806"/>
+<linearGradient id="c" x1="28.004%" x2="9.0548%" y1="13.672%" y2="154.98%">
+<stop stop-color="#F45922" offset="0"/>
+<stop stop-color="#D2A364" offset="1"/>
+</linearGradient>
+</defs>
+<g fill="none" fill-rule="evenodd">
+<mask id="b" fill="white">
+<use xlink:href="#a"/>
+</mask>
+<use fill="#FAFAFF" xlink:href="#a"/>
+<g mask="url(#b)" opacity=".15">
+<g transform="translate(727 581)">
+<ellipse cx="117" cy="117.5" rx="117" ry="117.5" fill="url(#c)"/>
+<ellipse cx="116.65" cy="117.74" rx="55.533" ry="55.771" fill="#fff"/>
+</g>
+</g>
+<g mask="url(#b)" opacity=".2">
+<g transform="translate(1067 68)">
+<ellipse cx="192.5" cy="193.5" rx="192.5" ry="193.5" fill="url(#c)"/>
+<ellipse cx="192.5" cy="194" rx="91.5" ry="92" fill="#fff"/>
+</g>
+</g>
+</g>
+</svg>

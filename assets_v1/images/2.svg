@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1280 806" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>BG_DB</title>
+<desc>Created with Sketch.</desc>
+<defs>
+<rect id="a" width="1280" height="806"/>
+<linearGradient id="c" x1="28.004%" x2="9.0548%" y1="13.672%" y2="154.98%">
+<stop stop-color="#2EB5C0" offset="0"/>
+<stop stop-color="#64D27E" offset="1"/>
+</linearGradient>
+</defs>
+<g fill="none" fill-rule="evenodd">
+<mask id="b" fill="white">
+<use xlink:href="#a"/>
+</mask>
+<use fill="#FAFAFF" xlink:href="#a"/>
+<g mask="url(#b)" opacity=".81227">
+<g transform="translate(1002 -228)">
+<circle cx="236" cy="236" r="236" fill="url(#c)" opacity=".5"/>
+<circle cx="236.5" cy="236.5" r="139.5" fill="#fff"/>
+</g>
+</g>
+<g mask="url(#b)" opacity=".81227">
+<g transform="translate(-284)">
+<circle cx="324" cy="324" r="324" fill="url(#c)" opacity=".5"/>
+<circle cx="324.5" cy="324.5" r="191.5" fill="#fff"/>
+</g>
+</g>
+</g>
+</svg>

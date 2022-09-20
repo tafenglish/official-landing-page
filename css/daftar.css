@@ -1,0 +1,67 @@
+/* pendaftaran TAFTS */
+html{
+  background: #FFFFFF;
+}
+
+.tafts_kids{
+    padding: 0.6em 3em;
+    background: #e74c3c;
+    height:50;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: justify;
+}
+#tafts_kids_read{
+    background: white;
+    padding: 0.6em 3em;
+    height:auto;
+    font-size: 18px;
+   
+}
+.clear_edu{
+  background-color: #FFFFFF;
+  height: 1px;
+}
+.button_form{
+  background: #1abc9c;
+  color:white;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  padding:10px 23px;
+  border-bottom: 5px;
+  border-bottom:5px solid #1abc9c ;
+  text-decoration:none;
+  font-size:11pt;
+  text-decoration:none;
+  float: right;
+}
+.button_form:hover{
+  background:#17AB8D;
+}
+.button_read{
+  background: #e74c3c;
+  color:white;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  padding:10px 23px;
+  border-bottom: 5px;
+  border-bottom:5px solid #e74c3c ;
+  text-decoration:none;
+  font-size:11pt;
+  text-decoration:none;
+  float: right;
+  margin-top: -35px;
+}
+.button_read:hover{
+  background:#A80000;
+}
+
+.href{
+    height: 50px;
+}
+.img_respon{
+    width: 100%;
+    height: auto;
+}

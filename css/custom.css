@@ -1,0 +1,59 @@
+.custom-shape-divider-bottom-1624248718 {
+    background-color: #44aca6;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1624248718 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-bottom-1624248718 .shape-fill {
+    fill: #FFFFFF;
+}
+.rotate {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+.shading {
+    text-shadow: 4px 3px 0 #44aca6, 9px 8px 0 rgb(0 0 0 / 15%);
+}
+/*Landing Page TAF Levelling*/
+@media screen and (max-width: 576px) {
+  #uji {
+  	text-align: center;
+  }
+  #btn-coba {
+	margin-left: 75px;
+    width: 400px;
+  }
+}
+@media screen and (min-width: 768px) {
+  #btn-coba {
+	margin-top: 150px;
+	margin-left: 50px;
+  }
+}
+@media screen and (min-width: 992px) {
+  #btn-coba {
+	margin-top: 125px;
+	/*margin-left: 50px;*/
+  }
+}
+@media screen and (min-width: 1200px) {
+  #btn-coba {
+	margin-top: 125px;
+	width: 500px;
+  }
+}

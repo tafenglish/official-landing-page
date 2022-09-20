@@ -1,0 +1,59 @@
+/* hubungi.php */
+.hub_page{
+  height: auto;
+  background: #800000;
+  padding: 0.6em 1em;
+  color: #FFFFFF;
+  font-family: 'Passion One', cursive;
+}
+.data{
+  height: auto;
+  padding: 0.6em 3em;
+  color: #FFFFFF;
+}
+/* Halaman Tentang Kami*/
+.about_page{
+  height: auto;
+  background: #800000;
+  padding: 0.6em 1.5em;
+  color: #FFFFFF;
+  font-family: 'Ubuntu', sans-serif;
+}
+#person{ 
+    width: 250px; 
+    height: 240px; 
+    background-color: darkorange;
+    float: left; 
+    margin-right: 10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size:16; 
+    
+}
+#photo{ 
+    width: 250px; 
+    height: 200px; 
+    background-color: white; 
+    margin: auto;
+}
+#personal_data{
+    width: 250px;
+    height: auto;
+    background-color: darkgoldenrod;
+    color: white;
+    
+}
+/* max screen 1304px */   /* real screen 1024px */
+@media only screen and ( max-width:1300px )
+{
+  #person{ 
+   margin-left: 50px;
+}
+}
+/* max screen 1024 px */  /* real screen 740 px */
+@media only screen and ( max-width:1024px )
+{
+ #person{ 
+   margin-left: 27px;
+}   
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1280 680" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>BG_RB</title>
+<desc>Created with Sketch.</desc>
+<defs>
+<linearGradient id="c" x1="49.271%" x2="49.271%" y1="100%" y2="8.6386%">
+<stop stop-color="#ED2643" offset="0"/>
+<stop stop-color="#EF6076" offset="1"/>
+</linearGradient>
+<polygon id="a" points="0 0 1280 0 1280 680 0 680"/>
+</defs>
+<g fill="none" fill-rule="evenodd">
+<mask id="b" fill="white">
+<use xlink:href="#a"/>
+</mask>
+<use fill="url(#c)" xlink:href="#a"/>
+<path d="m1236 722c-298.3-131.16-470.31-236.04-516.03-314.64s-13.716-214.38 96.02-407.36h623.98v722h-203.97z" fill="#EF5F76" mask="url(#b)"/>
+<path d="m0 84.965c279.84 79.42 436.18 152.77 469.03 220.04 32.844 67.275-19.829 206.27-158.02 417h-311.01v-637.04z" fill="#EE324E" mask="url(#b)"/>
+</g>
+</svg>

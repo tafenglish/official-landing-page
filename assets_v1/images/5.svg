@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1280 680" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>BG_RU</title>
+<desc>Created with Sketch.</desc>
+<defs>
+<linearGradient id="c" x1="49.271%" x2="49.271%" y1="100%" y2="-2.5153e-15%">
+<stop stop-color="#409BE5" offset="0"/>
+<stop stop-color="#40C4E5" offset="1"/>
+</linearGradient>
+<rect id="a" width="1280" height="680"/>
+</defs>
+<g fill="none" fill-rule="evenodd">
+<mask id="b" fill="white">
+<use xlink:href="#a"/>
+</mask>
+<use fill="url(#c)" xlink:href="#a"/>
+<path d="m1289.1 590c-298.23-107.18-470.2-192.89-515.91-257.12-45.712-64.228-13.713-175.19 95.998-332.88h623.84v590h-203.92z" fill="#40BBE5" mask="url(#b)"/>
+<path d="m-40 147c279.56 64.953 435.74 124.94 468.55 179.96 32.811 55.021-19.809 168.7-157.86 341.04l-310.69 222.4v-743.4z" fill="#409EE5" mask="url(#b)"/>
+</g>
+</svg>

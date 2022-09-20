@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="8.4667mm" height="8.4666mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 212 212" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#3FC6EE}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+ </defs>
+   <path class="fil0" d="m212 106c0 58-48 106-106 106-59 0-106-48-106-106 0-59 47-106 106-106 58 0 106 47 106 106z"/>
+   <path class="fil1" d="m173 69c-5 2-10 4-15 4 5-3 9-8 11-14-5 3-10 5-16 6-5-5-12-8-19-8-14 0-26 12-26 26 0 2 0 4 1 6-22-1-41-12-53-27-3 4-4 8-4 13 0 9 5 17 12 21-5 0-9-1-12-3 0 13 9 23 21 26-3 0-5 1-7 1s-3-1-5-1c3 10 13 18 24 18-9 7-20 11-32 11h-6c11 7 25 11 39 11 48 0 74-39 74-73v-4c5-3 9-8 13-13z"/>
+</svg>
